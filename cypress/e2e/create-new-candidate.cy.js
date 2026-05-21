@@ -11,10 +11,16 @@ describe('Create a new candidate', () => {
     cy.visit('https://trackivo.net');
 
     // Update these selectors/credentials to match your Trackivo login page.
-    cy.get('input[name="email"], input[type="email"]').type(Cypress.env('TRACKIVO_EMAIL'));
-    cy.get('input[name="password"], input[type="password"]').type(Cypress.env('TRACKIVO_PASSWORD'), {
-      log: false,
+    cy.env('TRACKIVO_EMAIL').then((email) => {
+      cy.get('input[name="email"], input[type="email"]').type(email);
     });
+
+    cy.env('TRACKIVO_PASSWORD').then((password) => {
+      cy.get('input[name="password"], input[type="password"]').type(password, {
+        log: false,
+      });
+    });
+
     cy.contains('button, input[type="submit"]', /log in|login|sign in/i).click();
 
     // Update this assertion to match the page shown after successful login.
