@@ -3,7 +3,7 @@ describe('Trackivo Login Test', () => {
   it('Should login successfully', () => {
 
     // Open login page
-    cy.visit('https://trackivo.net/login');
+    cy.visit('https://dev.trackivo.net/login');
 
     // Wait for load
     cy.wait(5000);
@@ -11,12 +11,12 @@ describe('Trackivo Login Test', () => {
     // Enter Email
     cy.get('input')
       .eq(0)
-      .type('heena@kriyaninfotech.com');
+      .type('heena@silverxis.com');
 
     // Enter Password
     cy.get('input')
       .eq(1)
-      .type('Heena@123!');
+      .type('Silverxis@123');
 
     // Click Sign In
     cy.contains('button', 'Sign In')
