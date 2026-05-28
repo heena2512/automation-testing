@@ -39,6 +39,9 @@ describe('Create a new candidate', () => {
     cy.get('input[name="lastName"], input[name="last_name"]').type(candidate.lastName);
     cy.get('input[name="email"], input[type="email"]').type(candidate.email);
     cy.get('input[name="phone"], input[type="tel"]').type(candidate.phone);
+    cy.get('input[name="gender"][value="Female"], input[name="Gender"][value="Female"]').check();
+    cy.get('input[name="Birthdate"], input[name="date"]').type('MM/DD/YYYY');
+    cy.get('input[name="Visa Type"], input[name="visa_type"]').type('Citizen, Green Card, H1B, etc.');
 
     cy.get('input[name="jobTitle"], input[name="job_title"], input[name="position"]').
       first()
