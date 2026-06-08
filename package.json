@@ -6,10 +6,10 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
-    "cy:open": "cypress open",
     "cy:run": "cypress run",
     "create-new-candidate": "cypress run",
-    "create-new-canddiate": "cypress run"
+    "create-new-job": "cypress run",
+    "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",

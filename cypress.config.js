@@ -1,16 +1,7 @@
-const { defineConfig } = require('cypress');
-// const eyesPlugin = require('@applitools/eyes-cypress');
+const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
   e2e: {
-    specPattern: 'cypress/e2e/**/*.cy.js',
-    supportFile: false,
-    defaultCommandTimeout: 10000,
-    allowCypressEnv: false,
-    setupNodeEvents(on, config) {
-      // eyesPlugin(on, config);
-
-      return config;
-    },
+    supportFile: "cypress/support/e2e.js",
   },
 });
