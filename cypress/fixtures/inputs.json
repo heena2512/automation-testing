@@ -1,0 +1,695 @@
+[
+  {
+    "index": 0,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "file",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 1,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "file",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 2,
+    "tagName": "INPUT",
+    "name": "first_name",
+    "placeholder": "First Name",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 3,
+    "tagName": "INPUT",
+    "name": "last_name",
+    "placeholder": "Last Name",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 4,
+    "tagName": "INPUT",
+    "name": "email",
+    "placeholder": "Email Address",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 5,
+    "tagName": "INPUT",
+    "name": "mobile",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 6,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "1 (702) 123-4567",
+    "type": "tel",
+    "id": "",
+    "class": "form-control form-icon-input  form-control "
+  },
+  {
+    "index": 7,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-11-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 8,
+    "tagName": "INPUT",
+    "name": "gender",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 9,
+    "tagName": "INPUT",
+    "name": "fakepasswordremembered",
+    "placeholder": "",
+    "type": "password",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 10,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "MM/DD/YYYY",
+    "type": "text",
+    "id": "",
+    "class": " form-control ps-6"
+  },
+  {
+    "index": 11,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-12-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 12,
+    "tagName": "INPUT",
+    "name": "visa_type",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 13,
+    "tagName": "INPUT",
+    "name": "linkedin_url",
+    "placeholder": "Linkedin URL",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 14,
+    "tagName": "INPUT",
+    "name": "facebook_url",
+    "placeholder": "Facebook URL",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 15,
+    "tagName": "INPUT",
+    "name": "twitter_url",
+    "placeholder": "Twitter URL",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 16,
+    "tagName": "INPUT",
+    "name": "current_add1",
+    "placeholder": "Address Line 1",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 17,
+    "tagName": "INPUT",
+    "name": "current_add2",
+    "placeholder": "Address Line 2",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 18,
+    "tagName": "INPUT",
+    "name": "current_zipcode",
+    "placeholder": "Postal / Zip code",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 19,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-13-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 20,
+    "tagName": "INPUT",
+    "name": "country",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 21,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "submit",
+    "id": "btnidContactForm",
+    "class": "d-none"
+  },
+  {
+    "index": 22,
+    "tagName": "INPUT",
+    "name": "current_job_title",
+    "placeholder": "Job Title",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 23,
+    "tagName": "INPUT",
+    "name": "highest_qualification_held",
+    "placeholder": "Highest Qualification Held",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 24,
+    "tagName": "INPUT",
+    "name": "experience_in_years",
+    "placeholder": "Experience in Years",
+    "type": "number",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 25,
+    "tagName": "INPUT",
+    "name": "current_salary",
+    "placeholder": "Current Pay Rate",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input allow_decimal_number_only  form-control"
+  },
+  {
+    "index": 26,
+    "tagName": "SELECT",
+    "name": "current_salary_currency",
+    "placeholder": "",
+    "type": "",
+    "id": "",
+    "class": "form-select"
+  },
+  {
+    "index": 27,
+    "tagName": "SELECT",
+    "name": "current_salary_type",
+    "placeholder": "",
+    "type": "",
+    "id": "",
+    "class": "form-select"
+  },
+  {
+    "index": 28,
+    "tagName": "INPUT",
+    "name": "expected_salary",
+    "placeholder": "Expected Pay Rate",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-inpu allow_decimal_number_only  form-control"
+  },
+  {
+    "index": 29,
+    "tagName": "SELECT",
+    "name": "expected_salary_currency",
+    "placeholder": "",
+    "type": "",
+    "id": "",
+    "class": "form-select"
+  },
+  {
+    "index": 30,
+    "tagName": "SELECT",
+    "name": "expected_salary_type",
+    "placeholder": "",
+    "type": "",
+    "id": "",
+    "class": "form-select"
+  },
+  {
+    "index": 31,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-14-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 32,
+    "tagName": "INPUT",
+    "name": "skill",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 33,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-15-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 34,
+    "tagName": "INPUT",
+    "name": "desired_work_place_type",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 35,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-16-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 36,
+    "tagName": "INPUT",
+    "name": "willing_to_relocate",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 37,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-17-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 38,
+    "tagName": "INPUT",
+    "name": "employement_type",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 39,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-18-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 40,
+    "tagName": "INPUT",
+    "name": "joining_availability",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 41,
+    "tagName": "INPUT",
+    "name": "fakepasswordremembered",
+    "placeholder": "",
+    "type": "password",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 42,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "MM/DD/YYYY",
+    "type": "text",
+    "id": "",
+    "class": " form-control ps-6"
+  },
+  {
+    "index": 43,
+    "tagName": "INPUT",
+    "name": "email_opt",
+    "placeholder": "",
+    "type": "checkbox",
+    "id": "email_opt",
+    "class": "form-check-input"
+  },
+  {
+    "index": 44,
+    "tagName": "INPUT",
+    "name": "work_location_add1",
+    "placeholder": "Address Line 1",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 45,
+    "tagName": "INPUT",
+    "name": "work_location_add2",
+    "placeholder": "Address Line 2",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 46,
+    "tagName": "INPUT",
+    "name": "work_location_zipcode",
+    "placeholder": "Postal / Zip code",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 47,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "text",
+    "id": "react-select-19-input",
+    "class": "react-select__input"
+  },
+  {
+    "index": 48,
+    "tagName": "INPUT",
+    "name": "country",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 49,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "submit",
+    "id": "btnidProfessionalForm",
+    "class": "d-none"
+  },
+  {
+    "index": 50,
+    "tagName": "INPUT",
+    "name": "educational_information.0.institute",
+    "placeholder": "Institute/School",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 51,
+    "tagName": "INPUT",
+    "name": "educational_information.0.degree",
+    "placeholder": "Degree",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 52,
+    "tagName": "INPUT",
+    "name": "educational_information.0.location",
+    "placeholder": "Location",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 53,
+    "tagName": "INPUT",
+    "name": "educational_information.0.from_month_year",
+    "placeholder": "",
+    "type": "month",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 54,
+    "tagName": "INPUT",
+    "name": "educational_information.0.present_educational_engagement",
+    "placeholder": "",
+    "type": "checkbox",
+    "id": "present_educational_engagement0",
+    "class": "form-check-input"
+  },
+  {
+    "index": 55,
+    "tagName": "INPUT",
+    "name": "educational_information.0.to_month_year",
+    "placeholder": "",
+    "type": "month",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 56,
+    "tagName": "TEXTAREA",
+    "name": "educational_information.0.remarks",
+    "placeholder": "Description",
+    "type": "",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 57,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "submit",
+    "id": "btnidEducationForm",
+    "class": "d-none"
+  },
+  {
+    "index": 58,
+    "tagName": "INPUT",
+    "name": "experience_information.0.job_title",
+    "placeholder": "Job Title",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 59,
+    "tagName": "INPUT",
+    "name": "experience_information.0.institute",
+    "placeholder": "Company",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 60,
+    "tagName": "INPUT",
+    "name": "experience_information.0.location",
+    "placeholder": "Location",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 61,
+    "tagName": "INPUT",
+    "name": "experience_information.0.from_month_year",
+    "placeholder": "",
+    "type": "month",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 62,
+    "tagName": "INPUT",
+    "name": "experience_information.0.present_working_here",
+    "placeholder": "",
+    "type": "checkbox",
+    "id": "present_working_here0",
+    "class": "form-check-input"
+  },
+  {
+    "index": 63,
+    "tagName": "INPUT",
+    "name": "experience_information.0.to_month_year",
+    "placeholder": "",
+    "type": "month",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 64,
+    "tagName": "TEXTAREA",
+    "name": "experience_information.0.remarks",
+    "placeholder": "Summary",
+    "type": "",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 65,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "submit",
+    "id": "btnidExperienceForm",
+    "class": "d-none"
+  },
+  {
+    "index": 66,
+    "tagName": "INPUT",
+    "name": "reference_information.0.name",
+    "placeholder": "Name",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 67,
+    "tagName": "INPUT",
+    "name": "reference_information.0.company",
+    "placeholder": "Company",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 68,
+    "tagName": "INPUT",
+    "name": "reference_information.0.mobile",
+    "placeholder": "",
+    "type": "hidden",
+    "id": "",
+    "class": ""
+  },
+  {
+    "index": 69,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "1 (702) 123-4567",
+    "type": "tel",
+    "id": "",
+    "class": "form-control form-icon-input  form-control "
+  },
+  {
+    "index": 70,
+    "tagName": "INPUT",
+    "name": "reference_information.0.email",
+    "placeholder": "Email Address",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 71,
+    "tagName": "INPUT",
+    "name": "reference_information.0.job_title",
+    "placeholder": "Job Title",
+    "type": "text",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 72,
+    "tagName": "INPUT",
+    "name": "reference_information.0.job_duration",
+    "placeholder": "Job Duration",
+    "type": "number",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 73,
+    "tagName": "SELECT",
+    "name": "reference_information.0.job_duration_type",
+    "placeholder": "",
+    "type": "",
+    "id": "",
+    "class": "form-select"
+  },
+  {
+    "index": 74,
+    "tagName": "INPUT",
+    "name": "reference_information.0.is_verified",
+    "placeholder": "",
+    "type": "checkbox",
+    "id": "is_verified",
+    "class": "form-check-input"
+  },
+  {
+    "index": 75,
+    "tagName": "TEXTAREA",
+    "name": "reference_information.0.remarks",
+    "placeholder": "Remarks",
+    "type": "",
+    "id": "",
+    "class": "form-icon-input  form-control"
+  },
+  {
+    "index": 76,
+    "tagName": "INPUT",
+    "name": "",
+    "placeholder": "",
+    "type": "submit",
+    "id": "btnidReferenceForm",
+    "class": "d-none"
+  }
+]
