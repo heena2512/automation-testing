@@ -7,6 +7,7 @@
   "scripts": {
     "test": "cypress run",
     "cy:run": "cypress run",
+    "candidate-module": "cypress run --spec cypress/e2e/candidate-module.cy.js",
     "create-new-candidate": "cypress run",
     "create-new-job": "cypress run",
     "cypress:open": "cypress open"
